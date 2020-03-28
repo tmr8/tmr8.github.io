@@ -44,5 +44,5 @@ if(screen.width < 500 ||
   navigator.userAgent.match(/webOS/i) ||
   navigator.userAgent.match(/iPhone/i) ||
   navigator.userAgent.match(/iPod/i)) {
-    $("a[href='https://instagram.com/mmti.done']").attr('href', 'instagram://user?username=mmti.done')
+    $("a[href='https://instagram.com/3pd0']").attr('href', 'instagram://user?username=3pd0')
  }
